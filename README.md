@@ -17,5 +17,6 @@ This repository contains descriptions of our MEaSUREs CETB files, for comment an
 
 CETB filenames will be:
 
-<grid_name>.<sensor_platform>...nc
+`<grid_name>.<sensor_platform>...nc`
+
 
